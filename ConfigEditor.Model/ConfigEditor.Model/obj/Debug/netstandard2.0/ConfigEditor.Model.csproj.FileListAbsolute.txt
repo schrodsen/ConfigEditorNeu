@@ -1,0 +1,10 @@
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\bin\Debug\netstandard2.0\ConfigEditor.Model.deps.json
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\bin\Debug\netstandard2.0\ConfigEditor.Model.dll
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\bin\Debug\netstandard2.0\ConfigEditor.Model.pdb
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.csproj.AssemblyReference.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.AssemblyInfoInputs.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.AssemblyInfo.cs
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.csproj.CoreCompileInputs.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.dll
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Model\ConfigEditor.Model\obj\Debug\netstandard2.0\ConfigEditor.Model.pdb

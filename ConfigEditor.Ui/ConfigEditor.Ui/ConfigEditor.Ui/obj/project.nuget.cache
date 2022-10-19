@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5JiCtfZEL+XhEY8TeOQ/BwLioF/DaRa/bIH5fDFVluzIYkuw56gHAwpCxwrAEhwcsGUixaWoB4zKkcuTF90gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui\\ConfigEditor.Ui\\ConfigEditor.Ui\\ConfigEditor.Ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

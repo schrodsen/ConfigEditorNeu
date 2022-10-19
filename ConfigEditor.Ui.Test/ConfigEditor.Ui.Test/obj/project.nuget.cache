@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5z0TnuRjJdHP8sOIpL5MWvMzxsCs/T18A51D/bclen0y97PwJQ+qCoC3svNTTKJARXLeIcuzZ+8EIC5lkxnYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

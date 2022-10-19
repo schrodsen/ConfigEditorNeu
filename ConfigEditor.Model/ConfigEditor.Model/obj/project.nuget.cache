@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XNH3CeY2n8YZjtY9IoQxua9kH2bnDTBmwAkmf45FkV7hkW0WImoPeVcHCujpSiqJodXkDfa4XZOO8rmcVnbXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Model\\ConfigEditor.Model\\ConfigEditor.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sven.schrod\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

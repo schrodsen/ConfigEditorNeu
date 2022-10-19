@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test.csproj",
+        "projectName": "ConfigEditor.Ui.Test",
+        "projectPath": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test.csproj",
+        "packagesPath": "C:\\Users\\sven.schrod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sven.schrod\\source\\repos\\ConfigEditor\\ConfigEditor.Ui.Test\\ConfigEditor.Ui.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\sven.schrod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

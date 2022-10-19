@@ -1,0 +1,13 @@
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\bin\Debug\netstandard2.0\ConfigEditor.Bl.deps.json
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\bin\Debug\netstandard2.0\ConfigEditor.Bl.dll
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\bin\Debug\netstandard2.0\ConfigEditor.Bl.pdb
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\bin\Debug\netstandard2.0\ConfigEditor.Model.dll
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\bin\Debug\netstandard2.0\ConfigEditor.Model.pdb
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.csproj.AssemblyReference.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.AssemblyInfoInputs.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.AssemblyInfo.cs
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.csproj.CoreCompileInputs.cache
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.csproj.CopyComplete
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.dll
+C:\Users\sven.schrod\OneDrive - Volk Holding GmbH & Co. KG\Dokumente\Visual Studio 2022\ConfigEditor\ConfigEditor.Bl\ConfigEditor.Bl\obj\Debug\netstandard2.0\ConfigEditor.Bl.pdb
